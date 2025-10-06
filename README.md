@@ -1,2 +1,2 @@
 # Despliegue
-Practicas de despliegue
+Practicas y ejercicios de despliegue
